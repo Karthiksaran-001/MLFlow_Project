@@ -1,7 +1,7 @@
 pandas
 mlflow==2.2.2
 numpy
-sklearn
+scikit-learn
 pyYAML
 Flask
 Flask-Cors
@@ -11,3 +11,5 @@ types-pyYAML
 tqdm
 matplotlib
 python-box==6.0.2
+notebook
+-e .

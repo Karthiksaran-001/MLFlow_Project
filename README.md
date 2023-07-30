@@ -11,3 +11,7 @@ conda create -n ml_proj python==3.10 -y
 ```bash
 conda activate ml_proj
 ```
+
+```python
+python template.py
+```
